@@ -1,0 +1,20 @@
+.pais.no.visitado {
+  fill: rgb(30, 77, 206);
+  stroke: blue;
+  stroke-width: 1;
+  fill-opacity: 1;
+}
+
+.pais.visitado {
+  fill: rgb(72, 212, 41);
+  stroke: green;
+  stroke-width: 1;
+  fill-opacity: 1;
+}
+
+.pais.deseado {
+  fill: rgb(240, 217, 12);
+  stroke: orange;
+  stroke-width: 1;
+  fill-opacity: 1;
+}
